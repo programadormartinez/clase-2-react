@@ -1,11 +1,11 @@
 import Body from './Body';
 import Footer from './Footer';
-import Header from './Header';
+import NavBar from './Nabvar';
 
 function App() {
   return (
     <div>
-      <Header />
+      <NavBar />
       <Body />
       <Footer/>
     </div>
