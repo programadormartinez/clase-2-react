@@ -97,6 +97,7 @@ const NavBar = () => {
                       />
                     </svg>
                   </a>
+                  <p></p>
                 </li>
               </ul>
             </div>
